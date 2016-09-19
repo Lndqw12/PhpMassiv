@@ -22,4 +22,5 @@ print_r($array2);
 print '</pre>';
 
 print_r($array1+$array2);
+print_r($array2+$array1);
 ?>
